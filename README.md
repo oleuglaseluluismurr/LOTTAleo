@@ -1,3 +1,4 @@
+Discord: ManssonRobert
 # lottery.aleo
 
 ## Run Guide
